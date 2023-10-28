@@ -53,6 +53,10 @@ cover/
 
 #MacOS Stuff
 .DS_Store
+Desktop.ini
+._*
+Thumbs.db
+
 
 # Translations
 *.mo
